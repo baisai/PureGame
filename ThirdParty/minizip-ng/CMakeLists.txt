@@ -5,7 +5,7 @@
 # Copyright (C) 2016 Matthias Schmieder
 #   schmieder.matthias@gmail.com
 
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.13...3.31)
 
 # Library version
 set(VERSION "4.0.10")
